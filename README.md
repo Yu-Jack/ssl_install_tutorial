@@ -27,9 +27,8 @@
 
 4. Finally, setup the permission of file.  
 
-[Most Common Java Keytool Commands](https://www.sslshopper.com/article-most-common-java-keytool-keystore-commands.html?jn9ed3e997=3)
 ## Other Useful Command of keytool
-
+[Most Common Java Keytool Commands](https://www.sslshopper.com/article-most-common-java-keytool-keystore-commands.html?jn9ed3e997=3)
 ```
 # Show the keystore detail
 keytool -list -v -keystore [your_keystore_file]
