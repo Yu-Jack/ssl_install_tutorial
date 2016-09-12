@@ -1,9 +1,9 @@
 # GoDaddy Certificate Install ( Tomcat )
 
 GoDaddy have the three certificate file
-1. [a-z0-9]+.crt ( This is godday certificate file )
-2. gdig2.crt ( This is godday intermed file )
-3. gd_bundle-g2-g1.crt ( This is godday root file )
+1. [a-z0-9]+.crt ( This is godday certificate file )  
+2. gdig2.crt ( This is godday intermed file )  
+3. gd_bundle-g2-g1.crt ( This is godday root file )  
 
 ## New Install
 [GoDaddy official tutorial](https://tw.godaddy.com/help/tomcat-4x5x6x7x-csr-ssl-5239)
