@@ -38,4 +38,7 @@ GoDaddy have the three certificate file
 ```
 # Show the keystore detail
 keytool -list -v -keystore [your_keystore_file]
+
+# Show the cert detail
+openssl x509 -in certificate.crt -text -noout
 ```
